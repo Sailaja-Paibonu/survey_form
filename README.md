@@ -1,2 +1,2 @@
 # survey_form
-![survey form](/Screenshot (261).png)
+![survey form](/output.png)
